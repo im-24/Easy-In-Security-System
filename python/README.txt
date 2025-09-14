@@ -1,0 +1,1 @@
+** Place owner.jpg and unwanted.jpg here !
